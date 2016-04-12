@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Times New Roman', 'Arial', 'Times New Roman' ;
+    font-family:'Times New Roman', 'Times New Roman', 'Times New Roman' ;
     padding: 0px;
     list-style: none;
     font-weight: bold;
